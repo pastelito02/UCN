@@ -1,0 +1,29 @@
+@import url(../css/base.css);
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin: 1rem;
+}
+
+.card {
+  background: #ffffff99;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+  padding: 1rem;
+}
+
+.card:hover {
+  background: #ffffffbb;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.8);
+}
+
+.agenda {
+  display: flex;
+  justify-content: end;
+}
+
+.agenda button {
+  padding: 0rem 0.5rem !important;
+}

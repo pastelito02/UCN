@@ -1,0 +1,25 @@
+@import url(css/base.css);
+/* Banner */
+
+div.banner {
+  height: 30rem;
+  width: 100%;
+  background-position: center 30% !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-clip: content-box !important;
+}
+
+div.divider * {
+  margin: 0;
+  padding: 0;
+}
+
+div.divider {
+  display: flex;
+  height: 100px;
+  background-color: var(--color-divider);
+  justify-content: space-between;
+  padding: var(--padding-horizontal);
+  align-items: center;
+}

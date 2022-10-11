@@ -1,0 +1,42 @@
+@import url(../css/base.css);
+
+.grid {
+  display: flex;
+  gap: 1rem;
+  margin: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: #ffffff99;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+  width: 40%;
+  padding: 1rem;
+}
+
+.card:hover {
+  background: #ffffffbb;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.8);
+}
+
+.meta {
+  display: grid;
+  grid-template-columns: 0.2fr 1fr;
+  align-items: center;
+}
+
+.iframe {
+  border: 0;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+  height: 300px;
+  width: 600px;
+}
+
+div:has(> iframe) {
+  padding-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
