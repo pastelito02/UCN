@@ -64,7 +64,7 @@ por lo que las siguientes son las unicas redes que generalmente frecuento.
 - [Github](https://github.com/pastelito02)
 - [Web Page](https://www.slayfer.dev/)
 - [Blog](https://blog.slayfer.dev/)
-- [Email](hola@slayfer.dev)
+- [Email](mailto:hola@slayfer.dev)
 
 ## Foto actualizada
 
