@@ -24,4 +24,5 @@ en un futuro, dado que la tematica de la web sera sobre tecnologia.
 
 ## Video de presentacion
 
-https://drive.google.com/file/d/1U7p1LGmAetTPVeaw7uAieo5OvXxzF8S8/preview
+https://user-images.githubusercontent.com/59717654/195176517-288d0836-fe86-4518-bc84-66f5520108b0.mp4
+
