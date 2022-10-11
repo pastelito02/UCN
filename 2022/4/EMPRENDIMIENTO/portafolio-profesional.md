@@ -13,16 +13,7 @@ Para esta actividad se solicitan 4 puntos importantes, los cuales son los siguie
 
 ## Video de presentación de marca personal
 
-La herramienta propuesta para la creacion del blog fue WIX, pero verdaderamente como desarrollador
-de software y como alguien que quiere llevar un poco mas alla, ya que deseo mantener un blog por 
-mi cuenta decidi crear el blog de forma programatica.
-
-| Tecnologia utilizada | Nombre de la pagina | Enlace |
-|-------|----------|--------|
-| Next.js | Slayfer blog | [blog.slayfer.dev](https://blog.slayfer.dev) |
-
-PD: Algunos de los articulos publicados por asignacion de algun curso pueden ser borrados o reformados
-en un futuro, dado que la tematica de la web sera sobre tecnologia.
+https://user-images.githubusercontent.com/59717654/195183102-e4f6bc99-ebc3-4771-8d14-f2a935e350fa.mp4
 
 ## Video de presentacion personal
 
