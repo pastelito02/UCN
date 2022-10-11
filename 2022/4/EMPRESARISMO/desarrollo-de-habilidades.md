@@ -26,3 +26,13 @@ en un futuro, dado que la tematica de la web sera sobre tecnologia.
 
 https://user-images.githubusercontent.com/59717654/195176517-288d0836-fe86-4518-bc84-66f5520108b0.mp4
 
+## Hoja de vida
+
+Aqui se deja un enlace con el adjunto de la hoja de vida.
+
+[**Hoja de vida**](https://github.com/pastelito02/UCN/files/9759026/HojadevidaDaniel.pdf)
+
+## Foto actualizada
+
+![Daniel](https://user-images.githubusercontent.com/59717654/195177201-452ee89e-0f15-4818-81b9-b77979a7fe10.png)
+
