@@ -13,3 +13,18 @@ La actividad solicitaba que se cumplieran con los siguientes criterios:
 - [x] La pagina debe tener una seccion para dar a conocer los datos de contacto del laboratorio clinico.
 - [x] La pagina debe tener un mapa de ubicacion del laboratorio clinico.
 - [x] La pagina debe tener una seccion de servicios que debe estar en construccion.
+
+### Resultado
+
+El codigo fuente de la pagina lo puede encontrar en esta misma ruta del repositorio, siendo el archivo
+[`index.html`](index.html) el archivo principal de la pagina.
+
+Adicionalmente aqui estaran las capturas de pantalla de la pagina:
+
+#### Pagina principal
+
+#### Pagina de quienes somos
+
+#### Pagina de servicios
+
+#### Pagina de contacto
