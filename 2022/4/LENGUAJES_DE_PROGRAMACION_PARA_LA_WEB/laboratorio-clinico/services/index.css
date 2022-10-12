@@ -27,3 +27,88 @@
 .agenda button {
   padding: 0rem 0.5rem !important;
 }
+
+#modal {
+  background: #00000099;
+  color: #fff;
+  position: fixed;
+  top: -100vh;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  transition: all 0.5s;
+}
+
+#modal div {
+  width: 60%;
+  height: 40%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#modal div img {
+  border-radius: 05rem;
+}
+
+#mostrar-modal {
+  display: none;
+}
+
+#mostrar-modal:checked ~ #cerrar-modal + label {
+  display: block;
+}
+
+#mostrar-modal:checked ~ #modal {
+  top: 0;
+}
+
+#mostrar-modal + label {
+  background: steelblue;
+  display: table;
+  margin: auto;
+  color: #fff;
+  line-height: 3;
+  padding: 0 1em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+#mostrar-modal + label:hover {
+  background: darken(steelblue, 10%);
+}
+
+#cerrar-modal {
+  display: none;
+}
+
+#cerrar-modal + label {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  z-index: 100;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  background: tomato;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  border-radius: 50%;
+  display: none;
+  transition: all 0.5s;
+}
+
+#cerrar-modal:checked ~ #modal {
+  top: -100vh;
+}
+
+#cerrar-modal:checked + label {
+  display: none;
+}
